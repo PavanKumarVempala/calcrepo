@@ -12,3 +12,4 @@ D:\Simplilearn\Phase_4\days\16 feb\Notes\CalcExample\CalcExample\obj\Debug\net6.
 D:\Simplilearn\Phase_4\days\16 feb\Notes\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 D:\Simplilearn\Phase_4\days\16 feb\Notes\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 D:\Simplilearn\Phase_4\days\16 feb\Notes\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+D:\Simplilearn\Phase_4\days\16 feb\Notes\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json

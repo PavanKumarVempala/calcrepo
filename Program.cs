@@ -10,8 +10,3 @@ calc.Add(10, 5);
 Console.WriteLine("Sub Call");
 calc.Sub(10, 5);
 
-Console.WriteLine("Div Call");
-calc.Div(10, 5);
-
-Console.WriteLine("Multi Call");
-calc.Multi(10, 5);
